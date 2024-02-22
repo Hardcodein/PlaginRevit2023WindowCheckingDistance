@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tormosin_Lab4", "Tormosin_Lab4\Tormosin_Lab4.csproj", "{F1DFF1D8-C758-4088-A728-0B5DF8204F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DFF1D8-C758-4088-A728-0B5DF8204F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DFF1D8-C758-4088-A728-0B5DF8204F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DFF1D8-C758-4088-A728-0B5DF8204F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DFF1D8-C758-4088-A728-0B5DF8204F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C652BE44-7D29-4F29-93BE-E9024A617F71}
+	EndGlobalSection
+EndGlobal

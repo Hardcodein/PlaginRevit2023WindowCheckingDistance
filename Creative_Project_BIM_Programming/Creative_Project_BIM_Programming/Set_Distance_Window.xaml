@@ -1,0 +1,13 @@
+﻿<Window x:Name="DistanceWindow" x:Class="Creative_Project_BIM_Programming.Set_Distance_Window"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Creative_Project_BIM_Programming"
+             mc:Ignorable="d" Height="300" Width="300" ResizeMode="NoResize" SizeToContent="WidthAndHeight" RenderTransformOrigin="0,0.5" Background="#FFB9CCF9">
+    <Grid HorizontalAlignment="Center" Height="233" Margin="0,20,0,0" VerticalAlignment="Top" Width="251" Background="#FF5B82FB">
+        <Label Content="Введите расстояние в мм" HorizontalAlignment="Left" Height="27" Margin="40,35,0,0" VerticalAlignment="Top" Width="178" AllowDrop="True" Foreground="Black" BorderBrush="#FFE2C3C3" Background="#FFDCD6DC"/>
+        <TextBox x:Name="TextBoxDistance" HorizontalAlignment="Left" Height="22" Margin="40,94,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="178" Background="#FFFFFCFC" BorderBrush="#FF022692" TextChanged="TextBox_TextChanged"/>
+        <Button Content="Ввести" HorizontalAlignment="Left" Height="49" Margin="40,159,0,0" VerticalAlignment="Top" Width="178" Click="Button_Click" BorderBrush="Black" Background="#FFACADEC"/>
+    </Grid>
+</Window>

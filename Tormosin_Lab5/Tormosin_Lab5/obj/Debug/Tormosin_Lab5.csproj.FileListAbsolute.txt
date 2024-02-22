@@ -1,0 +1,6 @@
+D:\.NET project\group_ai21\Tormosin_Lab5\Tormosin_Lab5\bin\Debug\Tormosin_Lab5.dll
+D:\.NET project\group_ai21\Tormosin_Lab5\Tormosin_Lab5\bin\Debug\Tormosin_Lab5.pdb
+D:\.NET project\group_ai21\Tormosin_Lab5\Tormosin_Lab5\obj\Debug\Tormosin_Lab5.csproj.AssemblyReference.cache
+D:\.NET project\group_ai21\Tormosin_Lab5\Tormosin_Lab5\obj\Debug\Tormosin_Lab5.csproj.CoreCompileInputs.cache
+D:\.NET project\group_ai21\Tormosin_Lab5\Tormosin_Lab5\obj\Debug\Tormosin_Lab5.dll
+D:\.NET project\group_ai21\Tormosin_Lab5\Tormosin_Lab5\obj\Debug\Tormosin_Lab5.pdb

@@ -1,0 +1,6 @@
+D:\.NET project\group_ai21\BIM_First_Plagin\BIM_First_Plagin\bin\Release\BIM_First_Plagin.dll
+D:\.NET project\group_ai21\BIM_First_Plagin\BIM_First_Plagin\bin\Release\BIM_First_Plagin.pdb
+D:\.NET project\group_ai21\BIM_First_Plagin\BIM_First_Plagin\obj\Release\BIM_First_Plagin.csproj.AssemblyReference.cache
+D:\.NET project\group_ai21\BIM_First_Plagin\BIM_First_Plagin\obj\Release\BIM_First_Plagin.csproj.CoreCompileInputs.cache
+D:\.NET project\group_ai21\BIM_First_Plagin\BIM_First_Plagin\obj\Release\BIM_First_Plagin.dll
+D:\.NET project\group_ai21\BIM_First_Plagin\BIM_First_Plagin\obj\Release\BIM_First_Plagin.pdb

@@ -1,0 +1,6 @@
+D:\.NET project\BIM_First_Plagin\BIM_First_Plagin\bin\Debug\BIM_First_Plagin.dll
+D:\.NET project\BIM_First_Plagin\BIM_First_Plagin\bin\Debug\BIM_First_Plagin.pdb
+D:\.NET project\BIM_First_Plagin\BIM_First_Plagin\obj\Debug\BIM_First_Plagin.csproj.AssemblyReference.cache
+D:\.NET project\BIM_First_Plagin\BIM_First_Plagin\obj\Debug\BIM_First_Plagin.csproj.CoreCompileInputs.cache
+D:\.NET project\BIM_First_Plagin\BIM_First_Plagin\obj\Debug\BIM_First_Plagin.dll
+D:\.NET project\BIM_First_Plagin\BIM_First_Plagin\obj\Debug\BIM_First_Plagin.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIM_First_Plagin", "BIM_First_Plagin\BIM_First_Plagin.csproj", "{8AF28B72-3C18-4FD7-A9A4-AC67E33F774C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF28B72-3C18-4FD7-A9A4-AC67E33F774C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF28B72-3C18-4FD7-A9A4-AC67E33F774C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF28B72-3C18-4FD7-A9A4-AC67E33F774C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF28B72-3C18-4FD7-A9A4-AC67E33F774C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7A324A2-0311-4DAD-8542-06BF3A80A947}
+	EndGlobalSection
+EndGlobal
